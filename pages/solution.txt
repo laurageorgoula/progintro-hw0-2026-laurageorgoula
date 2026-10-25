@@ -1,2 +1,6 @@
 https://github.com/laurageorgoula/progintro-hw0-2026-laurageorgoula.git
 directories_are_fun_gotta_catch_em_all
+brown_paper_packages_tied_up_with_strings
+grep_and_you_shall_find
+programmers
+the_triwizard_cup_is_yours_watch_out_for_the_horntail
